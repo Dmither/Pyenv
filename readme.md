@@ -3,8 +3,8 @@
 ### Install
 
 ```bash
-$ sudo get-apt update
-$ sudo get-apt upgrade
+$ sudo apt-get update
+$ sudo apt-get upgrade
 $ curl https://pyenv.run | bash
 $ echo 'export PATH="$HOME/.pyenv/bin:$PATH"' >> ~/.bashrc
 echo 'eval "$(pyenv init -)"' >> ~/.bashrc
